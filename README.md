@@ -1,38 +1,15 @@
-<p>There are some repos on GitHub currently supporting the development of the Grawlix CMS. Very grateful for them, but going forward, this repo is going to serve as the official repo for Grawlix CMS development. Nothing personal.</p>
+# What is this?
 
+The Grawlix project (a CMS for Webcomics) appears to be abandoned. There has been no activity on the main repo for a few years now. All of the links they had for documentation were broken.
 
-# Welcome to the Grawlix CMS Revival. This is the official repo hub for the revival of the Grawlix CMS for webcomic hosting.
-For those unaware, the Grawlix CMS is a tool that helps comic artist publish and manage their own website to host their webcomic without needing to learn any code. Follow along with this readme to get started.
+But I have a fondess for the project and I know someone who is using it currently. Unfortunately the app does not appear to run well on a more modern version of PHP, it was written for PHP 5.x.
 
-# Requirements
-The Grawlix CMS requires a web host with PHP5 and MySQL. You’ll need a database on the host before you install the system — check your host’s control panel for details. You will also need a code editor like [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or [Notepad++](https://notepad-plus-plus.org/), and an FTP app like [FileZilla](https://filezilla-project.org/) or [Transmit](https://panic.com/transmit/) for easy transfer of your files to your server. You may also use your webhost's built in FTP or code editing tools.
+I am working to see if I can update it a bit for more modern PHP.
 
-<ul>
-  <li><a href="http://www.getgrawlix.com/docs/1/requirements">Learn more about the requirements</a>.</li>
-  <li><a href="http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/">New to FTP and web hosting?</a> Check out our easy to follow walkthrough on installing the Grawlix CMS by Jordan Rodriguez</li>
-<li>Run into a bug? <a href="http://www.grawlixdevblog.com/bugs-report/">Report it</a>.</li>
-</ul>
+# Who are you?
 
-# Installating the Grawlix CMS for the first time?
-<ul>
-  <li>1. Everything you need to know to install and run the Grawlix CMS can be found <a href="http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/">here</a>.</li>
-  <li>2. Download the latest version from the repo to get started.</li>
-  </ul>
+No one of consequence. I'll put more here later.
 
-# Upgrading from 1.1 to 1.5.1
-1. Make a backup of your site and, if possible, your database.
-2. Upload the _system and _admin folders to your site, replacing the old versions.
-3. Upload the functions.inc.php and index.php files into your site’s root directory.
-4. Copy the new pattern files from any of the included themes into your current theme folder.
-5. Go to your admin panel and follow the update prompt at the top of the screen.
-6. When it’s done, delete the script _upgrade-to-1.3.php in your _admin folder.
-Among other changes and fixes, versions 1.3 and 1.4 make significant changes to static pages. Check out your site’s static pages to be sure everything moved OK.
-7. All of this will be covered in the README file in the grawlix-1.5.1.zip
+# After success?
 
-# More info & support
-<ul>
- <li> <a href="http://www.getgrawlix.com/docs">Read the docs</a>.</li>
- <li><a href="http://www.grawlixdevblog.com/">Follow the devblog</a>.</li>
-</ul>
-
-— Grawlix CMS Revival Team
+After I can get the project working again I aim to make some updates, that will simplify the system and hopefully make it easily portable. Meaning it will be easy to back up, and easy to move hosts if desired.
