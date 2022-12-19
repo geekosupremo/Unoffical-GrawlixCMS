@@ -1,11 +1,3 @@
-# Modernizing Grawlix
-I'm attempting some fixes to allow existing Grawlix users to run on more secure and readily available web hosts. I'm not an experinced software writer, so there may be some rough seas ahead. But if I can breath a little more life into this I might have a chance to improve it or at least take it into a direction that didn't exist when this project was starting.
-
---
-
-C
-
-
 <p>There are some repos on GitHub currently supporting the development of the Grawlix CMS. Very grateful for them, but going forward, this repo is going to serve as the official repo for Grawlix CMS development. Nothing personal.</p>
 
 
