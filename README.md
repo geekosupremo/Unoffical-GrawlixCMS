@@ -1,6 +1,6 @@
 # What is this?
 
-The Grawlix project (a CMS for Webcomics) appears to be abandoned. There has been no activity on the main repo for a few years now. All of the links they had for documentation were broken.
+The Grawlix project (a CMS for Webcomics) appears to be abandoned. There has been no activity on the main repo for a few years now. All of the links they had for documentation were broken. I'm trying to breath a little more life into the project.
 
 ## Why?
 
